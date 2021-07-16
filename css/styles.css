@@ -10871,6 +10871,7 @@ html {
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
+  text-align: left;
 }
 
 .scroll-to-top {
