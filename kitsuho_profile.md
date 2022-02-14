@@ -25,7 +25,10 @@
 |2018|Opened Shodo lesson at her hometown Morioka|日本習字本宮教室を開講|
 
 # 雅号の由来
-字義：清らかに咲きつぎ，気品高き橘の花の芳しく映える意味
+|English|日本語|
+|-------|-----|
+|Elegant Tachibana flowers that bloom in a pure manner|清らかに咲きつぎ，気品高き橘の花の芳しく映える意味|
+
 
 # 作品
 [橘芳に確認]
