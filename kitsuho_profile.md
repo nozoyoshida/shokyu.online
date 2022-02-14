@@ -12,16 +12,16 @@
 # 資格
 |English|日本語|
 |-------|-----|
-||漢字部門 八段 （日本習字）|
-||漢字部門 教授 （日本習字）|
+|8th Dan at Kanji section|漢字部門 八段 （日本習字）|
+|Professorship at Kanji section|漢字部門 教授 （日本習字）|
 
 # 略歴
 |Year / 年|English|日本語|
 |-------|-------|-----|
 |1981|Started Shodo at 7 years old|7歳で書道を始める|
 |2006|Studied under Japanese Calligrapher Syuko Fujisawa（藤澤秀光）|書家・藤澤秀光に師事|
-|2012|Get a professorship (Kanji section)|教授位（漢字部門）を得る|
-|2018|Get 8th Dan (Kanji section)|八段位（漢字部門）を得る|
+|2012|Get a professorship at Kanji section|教授位（漢字部門）を得る|
+|2018|Get 8th Dan at Kanji section|八段位（漢字部門）を得る|
 |2018|Opened Shodo lesson at her hometown Morioka|日本習字本宮教室を開講|
 
 # 雅号の由来
